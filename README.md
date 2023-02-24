@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
   ### Привет!👋
-  ### Меня зовут Илья и я начинающий Python Developer. 
+  ### Меня зовут Илья и я начинающий Python Back-end developer. 
 
 
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
